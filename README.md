@@ -1,10 +1,10 @@
-# ⚡ Electro-Logix — Intelligent Electronics Inventory Management System
+# Electro-Logix — Intelligent Electronics Inventory Management System
 
 > A full-stack intelligent inventory management platform for **electronic goods**, built as part of the **Infosys Springboard Internship Program** by **Team B**.
 
 ---
 
-## 📌 Overview
+## Overview
 
 **Electro-Logix** is a role-based inventory management platform specifically designed for managing **electronic goods** — components, devices, and equipment. It streamlines warehouse operations, stock tracking, supplier management, and business analytics. The system provides real-time alerts, automated stock monitoring, and AI-driven recommendations to help electronics businesses make smarter decisions.
 
